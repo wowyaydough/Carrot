@@ -194,7 +194,6 @@ section#product2 .wrap ul li a {
   width: 100%;
   height: 100%;
   background-size: contain;
-  transition:1s;
 }
 section#product2 .wrap ul li a:hover{
   color:#ff5000;
@@ -312,6 +311,7 @@ section#benefit .wrap ul li a {
 
 section#banner{
   
+  padding-bottom: 63px;
 }
 section#banner .wrap{
   position: relative;
